@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="true" type="DenoConfigurationType" inputPath="$PROJECT_DIR$/hello.ts" programParameters="run --inspect-brk">
+  <configuration default="true" type="DenoConfigurationType" programParameters="run -A --inspect-brk">
     <method v="2" />
   </configuration>
 </component>

@@ -1,3 +1,9 @@
+# deno-hono-kv
+
+Deno + hono + Deno KV のプレイグラウンド。
+
+## Usage
+
 ```
-deno run --allow-net hello.ts
+deno task dev
 ```
