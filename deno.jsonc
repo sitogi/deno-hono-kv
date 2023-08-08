@@ -1,0 +1,13 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "compilerOptions": {
+    "lib": ["deno.unstable", "ESNext", "dom"],
+    "strict": true,
+    "strictNullChecks": true
+  },
+  "fmt": {
+    "lineWidth": 120
+  }
+}
